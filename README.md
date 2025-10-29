@@ -3,6 +3,7 @@
 ## 💻 About Me
 I'm a passionate **Developer** who loves building, breaking, and improving things through code.  
 I enjoy working on creative projects, automation, and software that actually makes life easier (or just more fun).
+I am currently developing my Forge skills.
 
 ---
 
